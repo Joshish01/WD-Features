@@ -36,6 +36,7 @@ header a:hover {
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
+    overflow: hidden;
 }
 
 .hero h1 {
@@ -158,23 +159,22 @@ img {
 
 .about1 {
     background-image: url(../img/about1.jpg);
-    color: white;
 }
 
 .about2 {
     background-image: url(../img/about2.jpg);
-    color: white;
 }
 
 .about3 {
     background-image: url(../img/about3.jpg);
-    color: white;
 }
 
 .about1, .about2, .about3 {
     background-size: cover;
     background-position: center;
     height: 150px; 
+    overflow: hidden;
+    color: white;
 }
 
 footer {

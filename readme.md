@@ -66,6 +66,7 @@ This Project is about 2 Different feature display layout.
 - Parallax transition
 - Transactional
 - Hover effects
+- After effects
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,4 +112,21 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| logo | used logo for readme | https://ph.pinterest.com/pin/965599976332146070/ |
+| background | used bg for landing page | https://ph.pinterest.com/pin/22236591905495121/
+| feature 1 img | used bg for hero section feature 1 | https://ph.pinterest.com/pin/35395547062054085/
+| feature 1 img | used for img gallery | https://ph.pinterest.com/pin/1055599906822671/
+| feature 1 img | used for img gallery | https://ph.pinterest.com/pin/539306124139258336/
+| feature 1 img | used for img gallery | https://ph.pinterest.com/pin/5277724555403364/
+| feature 1 img | used for img gallery | https://ph.pinterest.com/pin/4644405856973370/
+| feature 1 img | used for img gallery | https://ph.pinterest.com/pin/3588874695869795/
+| feature 1 img | used for img section 1 | https://ph.pinterest.com/pin/708683691386684518/
+| feature 1 img | used for img section 2 | https://ph.pinterest.com/pin/30258628741719444/
+| feature 1 img | used for img section 3 | https://ph.pinterest.com/pin/476326098107945458/
+| feature 2 img | used img for car 1 | https://ph.pinterest.com/pin/885238870491146177/
+| feature 2 img | used img for car 2 | https://ph.pinterest.com/pin/1006202741732563867/
+| feature 2 img | used bg for hero section feature 2 | https://ph.pinterest.com/pin/16325617393810559/
+| feature 2 img | used img for car 3 | https://ph.pinterest.com/pin/743868063483002801/
+| toyota | used for my feature 2 texts | https://www.headquartertoyota.com/blogs/2694/toyota-information/benefits-of-buying-new-and-pre-owned-toyotas/
+
+
