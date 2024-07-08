@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Joshish01/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="logo" width="130" height="100">
+    <img src="./assets/img/logo1.jpg" alt="logo" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 4</h3>
@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This Project is about Feature Display pages with different layouts of it.
+This Project is about 2 Different feature display layout.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -65,6 +65,7 @@ This Project is about Feature Display pages with different layouts of it.
 - MultiPage Website/Single Page Website
 - Parallax transition
 - Transactional
+- Hover effects
 
 ### Technology
 <!-- TODO: List of Technology Used -->
