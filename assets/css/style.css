@@ -33,13 +33,6 @@ body {
     align-items: center;
 }
 
-.logo {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.5rem;
-    font-weight: bold;
-}
-
 nav {
     display: flex;
 }
